@@ -1,6 +1,6 @@
 # MNIST Classification Model
 
-![Build Status](https://github.com/cr21/s5/actions/workflows/python-app.yml/badge.svg)
+![Build Status](https://github.com/AnkitaMungalpara/MLOps-Pytorch-Mnist-Basic/actions/workflows/python-app.yml/badge.svg)
 
 ## Overview
 A PyTorch-based MNIST digit classification model with image augmentation and comprehensive testing.
